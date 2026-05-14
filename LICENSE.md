@@ -1,4 +1,4 @@
-# 
+# Enhance Obsidian for Windows with ultimate Obsidian for Windows Workflow | search-functionality + cloud-sync, the #1 workflow. Includes search-functionality and cloud-sync for a
 
 
 
